@@ -633,6 +633,10 @@ section h3.section-subheading {
     text-align: center;
 }
 
+#team {
+    padding: 50px!important;
+}
+
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
@@ -650,6 +654,7 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
+    width:200px;
 }
 
 section#contact {
@@ -720,6 +725,11 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+}
+
+footer .winalife_footer a{
+    color: #333;
+    font-size: 1.2em;
 }
 
 footer span.copyright {
